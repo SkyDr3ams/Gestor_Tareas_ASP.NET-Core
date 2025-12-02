@@ -53,14 +53,21 @@ Para ejecutar este proyecto en local, sigue estos pasos:
 
 ---
 
-## 📂 Estructura del proyecto
+## 🔐 Credenciales sugeridas
 
-```text
-ProyectoASPNetCore/
-│
-├── Controllers/      # Lógica de negocio (Controladores MVC)
-├── Models/           # Estructura de datos (Entidad Tarea)
-├── Views/            # Interfaz de usuario (Razor Pages)
-├── wwwroot/          # Archivos estáticos (CSS, JS)
-├── appsettings.json  # Configuración de conexión a BD
-└── README.md         # Documentación del proyecto
+Al iniciar la aplicación con una base de datos limpia, puedes registrar este usuario para probar las funcionalidades rápidamente:
+
+* **Usuario:** name@example.com
+* **Contraseña:** #h1J7LmN789#
+
+---
+
+## ⚖️ Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**.
+
+---
+
+## 👤 Autor
+
+**Ivan R.**
