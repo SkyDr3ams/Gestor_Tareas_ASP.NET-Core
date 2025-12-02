@@ -55,5 +55,4 @@ Para ejecutar este proyecto en local, sigue estos pasos:
 
 ## 👤 Autor
 
-**Ivan R.**
-*Ingeniería en Sistemas Computacionales*
+**SkyDreams.**
