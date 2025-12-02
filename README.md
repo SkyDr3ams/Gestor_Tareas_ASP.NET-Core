@@ -21,7 +21,7 @@ Este proyecto cumple con todos los requisitos de la evaluación:
 
 ## 🛠 Tecnologías Utilizadas
 
-* **Framework:** ASP.NET Core MVC (.NET 8)
+* **Framework:** ASP.NET Core MVC (.NET 8.0)
 * **ORM:** Entity Framework Core
 * **Base de Datos:** SQLite / SQL Server LocalDB
 * **Frontend:** Razor Views, Bootstrap
@@ -53,6 +53,14 @@ Para ejecutar este proyecto en local, sigue estos pasos:
 
 ---
 
-## 👤 Autor
+## 📂 Estructura del proyecto
 
-**SkyDreams.**
+```text
+ProyectoASPNetCore/
+│
+├── Controllers/      # Lógica de negocio (Controladores MVC)
+├── Models/           # Estructura de datos (Entidad Tarea)
+├── Views/            # Interfaz de usuario (Razor Pages)
+├── wwwroot/          # Archivos estáticos (CSS, JS)
+├── appsettings.json  # Configuración de conexión a BD
+└── README.md         # Documentación del proyecto
